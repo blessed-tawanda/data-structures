@@ -1,3 +1,10 @@
-# data-structures
-* Simple implementation of ADTs in C
-* This repository is a collection of a few data structures that i have implemented using C. More are coming soon..
+# Algorithms and Data Structures Implementation In C -- Java and Python coming soon
+
+## Current Structures 
+  * Stack
+  * Queue
+  * Single Linked List
+  * Double Linked List
+  
+## Current Algorithms
+  * Tower of Hanoi
